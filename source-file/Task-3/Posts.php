@@ -27,4 +27,5 @@ class Posts
         $this->fetchPosts();
         return $this->postList;
     }
+
 }

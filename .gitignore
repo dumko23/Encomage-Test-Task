@@ -1,11 +1,8 @@
-node_modules/
+/.env
+/.vscode
 
-dist/
+/data/*
+/logs/*
 
-.idea
-
-.cache
-
-
-
-
+.DS_Store
+/buildtest
